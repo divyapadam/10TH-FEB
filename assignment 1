@@ -1,0 +1,38 @@
+sno=int(input("ENTER STUDENT ROLL NO:"))
+sname=input("ENTER STUDENT NAME")
+S1=int(input("JAVA MARKS:"))
+S2=int(input("OS MARKS:"))
+S3=int(input("ACCOUNTS MARKS:"))
+S4=int(input("TELUGU MARKS:"))
+S5=int(input("ONLINE BUSSINESS MARKS:"))
+S6=int(input("ENVIRONMENTAL EDUCATION MARKS:"))
+S7=int(input("ANALATICAL SKILLS MARKS:"))
+if S1>30 and  S2>30 and  S3>30 and  S4>30 and  S5>30 and  S6>30 and  S7>30:
+    print("PASS")
+else:
+    print("FAIL")
+    
+       
+ENTER STUDENT ROLL NO:
+24
+ENTER STUDENT NAME
+P.DIVYA
+JAVA MARKS:
+89
+OS MARKS:
+76
+ACCOUNTS MARKS:
+45
+TELUGU MARKS:
+89
+ONLINE BUSSINESS MARKS:
+49
+ENVIRONMENTAL EDUCATION MARKS:
+49
+ANALATICAL SKILLS MARKS:
+43
+PASS
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
