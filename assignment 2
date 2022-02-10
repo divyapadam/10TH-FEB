@@ -1,0 +1,14 @@
+a=int(input("enter a:"))
+if a>0:
+    print("POSITIVE")
+else:
+    print("NEGATIVE")
+
+   
+enter a:
+6
+POSITIVE
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
